@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Computer Science 101",
+        "description": "Introduction to Computer Science",
+        "universityDetails": [
+            {
+                "university": "60d5ec49f1b62c001c8b4567",
+                "year": 3,
+                "stream": "AIML"
+            },
+            {
+                "university": "60d5ec49f1b62c001c8b4568",
+                "year": 2022,
+                "stream": "Science"
+            }
+        ]
+    },
+    {
+        "name": "Mathematics 101",
+        "description": "Introduction to Mathematics",
+        "universityDetails": [
+            {
+                "university": "60d5ec49f1b62c001c8b4569",
+                "year": 3,
+                "stream": "AIML"
+            },
+            {
+                "university": "60d5ec49f1b62c001c8b4570",
+                "year": 2021,
+                "stream": "Science"
+            }
+        ]
+    }
+]
